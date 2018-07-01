@@ -1,0 +1,20 @@
+﻿body {
+    background-color: antiquewhite;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.Bold {
+    font-weight: bold;
+    margin:auto;
+}
+.Italic {
+    font-style: italic;
+}
+.Title {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    margin: auto;
+}
+
