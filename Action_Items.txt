@@ -1,5 +1,0 @@
-Locate database script and add it to the repo
-
-Enhance existing CSS for both browsers and mobile browers
-
-Create readme to instruct potential users on how to set up the database and run the program
