@@ -28,5 +28,10 @@ namespace WebApplication1
         {
             Response.Redirect("./OpenProblems.aspx");
         }
+
+        protected void btnReports_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("./ReportSelection.aspx");
+        }
     }
 }
